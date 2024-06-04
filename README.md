@@ -1,1 +1,3 @@
 # Chip-seq
+
+two method
