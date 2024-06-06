@@ -1,6 +1,6 @@
 # Chip-seq
 
-two method
+two methods
 
 MACS2
 DOCKER parse2wigdir+
